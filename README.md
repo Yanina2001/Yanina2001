@@ -3,10 +3,10 @@
 <br>
 <p align="left"> Soon I will be uploading projects that I have done in school, in some courses and own.
 <br>
+<br>
 For data science I use Python and R.
 
 I’m a  technology enthusiast. I’m passionate about reading, exercising and listening to music.
-
 I am excited where the world of technology will move, so I am continuously learning new skills and using new tools, to find new opportunities to explore. </p>
 <br>
 - 📫 How to reach me **delunayanina@gmail.com**
