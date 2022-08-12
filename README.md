@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yanina De Luna Ocampo</h1>
 <h3 align="center">A currently Data Science student, from Mexico</h3>
 
+<p align="left"> Soon I will be uploading projects that I have done in school, in some courses and own.
+
+For data science I use Python and R.
+
+I’m a  technology enthusiast. I’m passionate about reading, exercising and listening to music.
+
+I am excited where the world of technology will move, so I am continuously learning new skills and using new tools, to find new opportunities to explore. </p>
+
 - 📫 How to reach me **delunayanina@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
