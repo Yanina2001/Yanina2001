@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yanina De Luna Ocampo</h1>
 <h3 align="center">A currently Data Science student, from Mexico</h3>
 <br>
-<p align="left"> <br> <br>
+<p align="left"> <br>
 For data science I use Python and R.
 
 I’m a  technology enthusiast. I’m passionate about reading, exercising and listening to music.
